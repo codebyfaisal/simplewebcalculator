@@ -12,7 +12,7 @@ A simple calculator web application with multiple themes for a pleasant user int
 ## Technologies Used
 
 - **HTML**: Structure of the calculator interface.
-- **CSS**: Styling, including 5 different themes for UI customization.
+- **CSS**: Styling, including 4 different themes for UI customization.
 - **JavaScript**: Functionality for calculator operations and theme switching.
 
 ## Themes
@@ -26,15 +26,6 @@ A simple calculator web application with multiple themes for a pleasant user int
 - **Text Color**: #eee
 
 ### Theme 2
-- **Background**: Gradient (45deg) from #a0a0a0 to #bbbbbb
-- **Button Shadow**: Outer: rgba(0, 0, 0, 0.1), Inner: rgba(255, 255, 255, 0.7)
-- **Container Shadow**: rgba(0, 0, 0, 0.1)
-- **Screen Shadow**: #d1d1d1b9
-- **Active Button Shadow**: rgba(0, 0, 0, 0.2)
-- **Function Color**: rgb(40, 125, 182)
-- **Text Color**: #0f0f0f
-
-### Theme 3
 - **Background**: Gradient (45deg) from #1e1e1e to #1e1e1e
 - **Button Shadow**: Outer: #4646466b, Inner: #1e1e1eb9
 - **Container Shadow**: #4747476c
@@ -43,7 +34,7 @@ A simple calculator web application with multiple themes for a pleasant user int
 - **Function Color**: Orange
 - **Text Color**: White
 
-### Theme 4
+### Theme 3
 - **Background**: Gradient (45deg) from #012461 to #45028bb9
 - **Button Shadow**: Outer: #0123687c, Inner: #0123687c
 - **Container Shadow**: #0123687c
@@ -52,7 +43,7 @@ A simple calculator web application with multiple themes for a pleasant user int
 - **Function Color**: Greenyellow
 - **Text Color**: White
 
-### Theme 5
+### Theme 4
 - **Background**: Gradient (45deg) from #2e8b57 to #004e97
 - **Button Shadow**: Outer: rgba(0, 0, 0, 0.2), Inner: rgba(255, 255, 255, 0.5)
 - **Container Shadow**: rgba(0, 0, 0, 0.15)
