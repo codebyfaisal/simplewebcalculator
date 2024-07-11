@@ -16,7 +16,6 @@ A simple calculator web application with multiple themes for a pleasant user int
 - **JavaScript**: Functionality for calculator operations and theme switching.
 
 ## Themes
-
 ### Theme 1
 - **Background**: Gradient (45deg) from #4b6cb7 to #182848
 - **Button Shadow**: Outer: #1828486b, Inner: #4b6cb7b9
@@ -63,7 +62,9 @@ A simple calculator web application with multiple themes for a pleasant user int
 - **Text Color**: #eee
 
 ## Preview
+Project Preview: [Here](https://codebyfaisal.github.io/simplewebcalculator/)
 
+![Sunrise Café Screenshot](preview.png)
 
 ## Installation
 
@@ -73,6 +74,9 @@ A simple calculator web application with multiple themes for a pleasant user int
    ```
 2. Open `index.html` in your web browser.
 
+OR 
+
+Just simply download release calc-0.1 [Here](https://github.com/codebyfaisal/simplewebcalculator/releases/tag/javascript)
  -----
  -----
 
