@@ -1,0 +1,9 @@
+:root {
+    --bg-body: linear-gradient(45deg, #012461, #45028bb9);
+    --shadow-button: 0 0 10px 0.5px #0123687c, inset 0 0 10px 0.5px #0123687c;
+    --shadow-container: 0 0 10px 0.5px #0123687c;
+    --shadow-screen: inset 0 0 10px #01246148;
+    --shadow-active-button: 0 0 10px 0.5px #0123687c;
+    --function-color: greenyellow;
+    --text-color: white;
+}

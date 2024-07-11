@@ -1,0 +1,9 @@
+:root {
+    --bg-body: linear-gradient(45deg, #2e8b57, #004e97);
+    --shadow-button: 0 0 4px 2px rgba(0, 0, 0, 0.2), inset 0 0 5px 0.5px rgba(255, 255, 255, 0.5);
+    --shadow-container: 0 0 10px 0.5px rgba(0, 0, 0, 0.15);
+    --shadow-screen: inset 0 0 10px rgba(0, 0, 0, 0.1);
+    --shadow-active-button: 0 0 4px 2px rgba(0, 0, 0, 0.3);
+    --function-color: rgb(238, 255, 0);
+    --text-color: #eee;
+}
