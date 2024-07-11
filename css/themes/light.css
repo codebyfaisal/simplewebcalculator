@@ -1,9 +1,0 @@
-:root {
-    --bg-body: linear-gradient(45deg, #a0a0a0, #bbbbbb);
-    --shadow-button: 0 0 4px 2px rgba(0, 0, 0, 0.1), inset 0 0 5px 0.5px rgba(255, 255, 255, 0.7);
-    --shadow-container: 0 0 5px 0.5px rgba(0, 0, 0, 0.1);
-    --shadow-screen: 0 0 10px #d1d1d1b9;
-    --shadow-active-button: 0 0 4px 2px rgba(0, 0, 0, 0.2);
-    --function-color: rgb(40, 125, 182);
-    --text-color: #0f0f0f;
-}
