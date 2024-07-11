@@ -2,6 +2,11 @@
 
 A simple calculator web application with multiple themes for a pleasant user interface.
 
+## Preview
+Project Preview: [Here](https://codebyfaisal.github.io/simplewebcalculator/)
+
+![Sunrise Café Screenshot](preview.png)
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division, modulus.
@@ -51,11 +56,6 @@ A simple calculator web application with multiple themes for a pleasant user int
 - **Active Button Shadow**: rgba(0, 0, 0, 0.3)
 - **Function Color**: rgb(238, 255, 0)
 - **Text Color**: #eee
-
-## Preview
-Project Preview: [Here](https://codebyfaisal.github.io/simplewebcalculator/)
-
-![Sunrise Café Screenshot](preview.png)
 
 ## Installation
 
